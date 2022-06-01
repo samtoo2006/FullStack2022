@@ -1,0 +1,5 @@
+E:\Antra\HW\HW2\HW2\HW2\obj\Debug\net6.0\HW2.csproj.AssemblyReference.cache
+E:\Antra\HW\HW2\HW2\HW2\obj\Debug\net6.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Antra\HW\HW2\HW2\HW2\obj\Debug\net6.0\HW2.AssemblyInfoInputs.cache
+E:\Antra\HW\HW2\HW2\HW2\obj\Debug\net6.0\HW2.AssemblyInfo.cs
+E:\Antra\HW\HW2\HW2\HW2\obj\Debug\net6.0\HW2.csproj.CoreCompileInputs.cache
